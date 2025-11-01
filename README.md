@@ -42,8 +42,8 @@ Actionable Insights
 ```
 
 ### Related Projects
-- **[ecf-theory](https://github.com/riteofrene/ecf-theory)** - Theoretical framework
-- **[ecf-study-aperture](https://github.com/riteofrene/ecf-study-aperture)** - Safe Aperture RCT study
+- **[ecf-theory](https://github.com/riteofrenaissance/ecf-theory)** - Theoretical framework
+- **[ecf-study-aperture](https://github.com/riteofrenaissance/ecf-study-aperture)** - Safe Aperture RCT study
 - **[ecf-study-interactions](https://github.com/riteofrene/ecf-study-interactions)** - Interaction patterns research
 
 ---
@@ -76,7 +76,7 @@ Actionable Insights
 
 ```bash
 # Clone the repository
-git clone https://github.com/riteofrene/ecf-dashboard.git
+git clone https://github.com/riteofrenaissance/ecf-dashboard.git
 cd ecf-dashboard
 
 # Install dependencies
@@ -278,10 +278,10 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
-- **Project Homepage**: [riteofrene.github.io/ecf-theory](https://riteofrene.github.io/ecf-theory)
-- **Research Portfolio**: [github.com/riteofrene](https://github.com/riteofrene)
-- **Issues**: [Report a bug](https://github.com/riteofrene/ecf-dashboard/issues)
-- **Discussions**: [Join the conversation](https://github.com/riteofrene/ecf-dashboard/discussions)
+- **Project Homepage**: [riteofrenaissance.github.io/ecf-theory](https://riteofrenaissance.github.io/ecf-theory)
+- **Research Portfolio**: [github.com/riteofrenaissance](https://github.com/riteofrenaissance)
+- **Issues**: [Report a bug](https://github.com/riteofrenaissance/ecf-dashboard/issues)
+- **Discussions**: [Join the conversation](https://github.com/riteofrenaissance/ecf-dashboard/discussions)
 
 ---
 
@@ -290,8 +290,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 For questions about the dashboard or research collaboration:
 
 - Open an issue in this repository
-- Visit our [main profile](https://github.com/riteofrene)
-- Check the [ECF Theory documentation](https://github.com/riteofrene/ecf-theory)
+- Visit our [main profile](https://github.com/riteofrenaissance)
+- Check the [ECF Theory documentation](https://github.com/riteofrenaissance/ecf-theory)
 
 ---
 
@@ -304,7 +304,7 @@ If you use this dashboard in your research:
   title = {ECF Dashboard: Cognitive Sovereignty Monitoring System},
   author = {Rite of Renaissance},
   year = {2025},
-  url = {https://github.com/riteofrene/ecf-dashboard}
+  url = {https://github.com/riteofrenaissance/ecf-dashboard}
 }
 ```
 
@@ -314,9 +314,9 @@ If you use this dashboard in your research:
 
 **Built with 🧠 for cognitive sovereignty**
 
-[⭐ Star this repo](https://github.com/riteofrene/ecf-dashboard) • 
-[🐛 Report Bug](https://github.com/riteofrene/ecf-dashboard/issues) • 
-[💡 Request Feature](https://github.com/riteofrene/ecf-dashboard/issues)
+[⭐ Star this repo](https://github.com/riteofrenaissance/ecf-dashboard) • 
+[🐛 Report Bug](https://github.com/riteofrenaissance/ecf-dashboard/issues) • 
+[💡 Request Feature](https://github.com/riteofrenaissance/ecf-dashboard/issues)
 
 </div>
 
@@ -355,7 +355,7 @@ If you use this dashboard in your research:
 
 ```bash
 # استنساخ المشروع
-git clone https://github.com/riteofrene/ecf-dashboard.git
+git clone https://github.com/riteofrenaissance/ecf-dashboard.git
 cd ecf-dashboard
 
 # تثبيت المكتبات
@@ -384,9 +384,9 @@ npm start
 
 ## 🔗 المشاريع المرتبطة
 
-- **[ecf-theory](https://github.com/riteofrene/ecf-theory)** - الإطار النظري
-- **[ecf-study-aperture](https://github.com/riteofrene/ecf-study-aperture)** - دراسة الفتحة الآمنة
-- **[ecf-study-interactions](https://github.com/riteofrene/ecf-study-interactions)** - دراسة أنماط التفاعل
+- **[ecf-theory](https://github.com/riteofrenaissance/ecf-theory)** - الإطار النظري
+- **[ecf-study-aperture](https://github.com/riteofrenaissance/ecf-study-aperture)** - دراسة الفتحة الآمنة
+- **[ecf-study-interactions](https://github.com/riteofrenaissance/ecf-study-interactions)** - دراسة أنماط التفاعل
 
 ---
 
@@ -400,7 +400,7 @@ MIT License - للتفاصيل راجع ملف [LICENSE](LICENSE)
 
 للأسئلة حول اللوحة أو التعاون البحثي:
 - افتح issue في هذا المشروع
-- زر [صفحتنا الرئيسية](https://github.com/riteofrene)
+- زر [صفحتنا الرئيسية](https://github.com/riteofrenaissance)
 
 </div>
 
