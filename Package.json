@@ -1,0 +1,67 @@
+{
+  "name": "ecf-dashboard",
+  "version": "0.1.0",
+  "description": "Real-time dashboard for tracking cognitive sovereignty in human-AI interactions",
+  "private": true,
+  "homepage": "https://riteofrenaissance.github.io/ecf-dashboard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riteofrenaissance/ecf-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riteofrenaissance/ecf-dashboard/issues"
+  },
+  "keywords": [
+    "evolutionary-core-framework",
+    "cognitive-sovereignty",
+    "dashboard",
+    "react",
+    "metrics",
+    "ai-interaction",
+    "arabic-ui"
+  ],
+  "author": "Rite of Renaissance",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.263.1",
+    "recharts": "^2.10.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/lodash": "^4.14.202",
+    "typescript": "^5.3.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
