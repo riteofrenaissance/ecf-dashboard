@@ -44,7 +44,7 @@ Actionable Insights
 ### Related Projects
 - **[ecf-theory](https://github.com/riteofrenaissance/ecf-theory)** - Theoretical framework
 - **[ecf-study-aperture](https://github.com/riteofrenaissance/ecf-study-aperture)** - Safe Aperture RCT study
-- **[ecf-study-interactions](https://github.com/riteofrene/ecf-study-interactions)** - Interaction patterns research
+- **[ecf-study-interactions](https://github.com/riteofrenaissance/ecf-study-interactions)** - Interaction patterns research
 
 ---
 
