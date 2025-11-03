@@ -43,8 +43,19 @@ Actionable Insights
 
 ### Related Projects
 - **[ecf-theory](https://github.com/riteofrenaissance/ecf-theory)** - Theoretical framework
-- **[ecf-study-aperture](https://github.com/riteofrenaissance/ecf-study-aperture)** - Safe Aperture RCT study
-- **[ecf-study-interactions](https://github.com/riteofrenaissance/ecf-study-interactions)** - Interaction patterns research
+- **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭 - Instant AI assessment
+- **[ecf-study-aperture](https://github.com/riteofrenaissance/ecf-study-aperture)** - RCT study
+- **[ecf-study-interactions](https://github.com/riteofrenaissance/ecf-study-interactions)** - Pattern research
+
+## 🧭 Compass vs Dashboard
+
+| Feature | ECF Compass | ECF Dashboard |
+|---------|-------------|---------------|
+| **Purpose** | Per-AI assessment | Aggregate monitoring |
+| **Use When** | Choosing AI to use | Tracking long-term trends |
+| **Systems** | 10 individual AIs | System-agnostic totals |
+
+💡 Use **Compass** for instant AI evaluation, **Dashboard** for progress tracking over time.
 
 ---
 
